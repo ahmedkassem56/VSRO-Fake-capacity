@@ -1,0 +1,5 @@
+c:\users\ahmed\documents\visual studio 2010\Projects\Fake capacity\Fake capacity\bin\Release\Fake capacity.exe
+c:\users\ahmed\documents\visual studio 2010\Projects\Fake capacity\Fake capacity\bin\Release\Fake capacity.pdb
+c:\users\ahmed\documents\visual studio 2010\Projects\Fake capacity\Fake capacity\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2010\Projects\Fake capacity\Fake capacity\obj\x86\Release\Fake capacity.exe
+c:\users\ahmed\documents\visual studio 2010\Projects\Fake capacity\Fake capacity\obj\x86\Release\Fake capacity.pdb
